@@ -2,8 +2,8 @@
 authors: "John, C., Watson, D. et al."
 displayDate: "2020"
 date: 2020-01-20
-title: "M3C: Monte Carlo Reference Based Consensus Clustering."
-blurb: "*Scientific Reports, 10*(1), 1816."
+title: "M3C: Monte Carlo Reference Based Consensus Clustering"
+blurb: "<em>Scientific Reports, 10</em>(1), 1816."
 source: "https://www.nature.com/articles/s41598-020-58766-1"
 image:
   url: /images/k5.png
