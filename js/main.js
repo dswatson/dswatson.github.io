@@ -28,8 +28,8 @@
           return;
         }
 
-        var emailName = 'david';
-        var emailDomain = 'thermoai.com';
+        var emailName = 'david.s.watson11';
+        var emailDomain = 'gmail.com';
         var $email = $(
           '<span id="email">' +
             '<a href="mailto:' +
