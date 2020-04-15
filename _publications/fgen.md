@@ -6,6 +6,6 @@ title: "Reaching the End-Game for GWAS: Machine Learning Approaches for the Prio
 blurb: "<em>Frontiers in Genetics, 11</em>, 350."
 source: "https://bit.ly/2VrmnRI"
 image:
-  url: /images/manhattan.jpg
+  url: /images/manhattan.png
   alt: "manhattan"
 ---
