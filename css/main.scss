@@ -95,6 +95,58 @@ body:not(.homepage) {
   }
 }
 
+#main {
+  padding: 1em;
+  display: flex;
+
+  > .image-wrapper > img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+
+// Row layout for computers & desktops
+@media screen and (min-width: 841px) {
+  #main {
+    flex-direction: row;
+
+    > p {
+      display: inline-block;
+      flex-grow: 1;
+      margin-right: 2em;
+      flex-basis: 60%;
+    }
+
+    > .image-wrapper {
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: center;
+      justify-content: flex-start;
+      flex-shrink: 1;
+      flex-basis: 35%;
+      max-width: 50%;
+    }
+  }
+}
+
+// Column layout for smaller screens
+@media screen and (max-width: 840px) {
+  #main {
+    flex-direction: column;
+
+    > p {
+      margin-right: 0;
+      margin-bottom: 2em;
+    }
+
+    > .image-wrapper {
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: center;
+    }
+  }
+}
+
 #header {
   // background-image: url('/images/header.jpg');
   padding-top: calc(21px + 3em);
