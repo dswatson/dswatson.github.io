@@ -1,5 +1,5 @@
 ---
-authors: "Watson, D. & Floridi, L."
+authors: "Watson & Floridi"
 displayDate: "2018"
 date: 2018-01-23
 title: "Crowdsourced Science: Sociotechnology Epistemology in the e-Research Paradigm"

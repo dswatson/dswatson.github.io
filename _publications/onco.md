@@ -1,5 +1,5 @@
 ---
-authors: "O'Toole, S., Watson, D., et al."
+authors: "O'Toole, Watson, et al."
 displayDate: "2019"
 date: 2019-03-23
 title: "Oncometabolite Induced Primary Cilia Loss in Pheochromocytoma"

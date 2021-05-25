@@ -1,5 +1,5 @@
 ---
-authors: "Watson, D. et al."
+authors: "Watson et al."
 displayDate: "2021"
 date: 2021-04-05
 title: "Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice"

@@ -1,5 +1,5 @@
 ---
-authors: "Öhman, C. & Watson, D."
+authors: "Öhman & Watson"
 displayDate: "2019"
 date: 2019-04-23
 title: "Are the Dead Taking Over Facebook? A Big Data Approach to the Future of Death Online"

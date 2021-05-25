@@ -1,5 +1,5 @@
 ---
-authors: "Nicholls, H., John, C., Watson, D. et al."
+authors: "Nicholls, John, Watson et al."
 displayDate: "2020"
 date: 2020-04-15
 title: "Reaching the End-Game for GWAS: Machine Learning Approaches for the Prioritization of Complex Disease Loci"

@@ -1,5 +1,5 @@
 ---
-authors: "Watson, D."
+authors: "Watson"
 displayDate: "2019"
 date: 2019-10-01
 title: "The Rhetoric and Reality of Anthropomorphism in Artificial Intelligence"

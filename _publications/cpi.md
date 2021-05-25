@@ -1,5 +1,5 @@
 ---
-authors: "Watson, D. & Wright, M."
+authors: "Watson & Wright"
 displayDate: "2019"
 date: 2019-01-10
 title: "Testing Conditional Independence in Supervised Learning Algorithms"

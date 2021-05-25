@@ -1,5 +1,5 @@
 ---
-authors: "Watson, D."
+authors: "Watson"
 displayDate: "2019"
 date: 2019-01-01
 title: "The Price of Discovery: A Model of Scientific Research Markets"

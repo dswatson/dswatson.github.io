@@ -1,5 +1,5 @@
 ---
-authors: "Watson, D., Krutzinna, J. et al."
+authors: "Watson et al."
 displayDate: "2019"
 date: 2019-03-23
 title: "Clinical Applications of Machine Learning Algorithms: Beyond the Black Box"

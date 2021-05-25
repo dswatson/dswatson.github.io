@@ -1,5 +1,5 @@
 ---
-authors: "Kinney, D. & Watson, D."
+authors: "Kinney & Watson"
 displayDate: "2020"
 date: 2020-05-18
 title: "Causal Feature Learning for Utility-Maximizing Agents"
