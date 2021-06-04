@@ -6,6 +6,6 @@ title: "Explaining Black Box Algorithms: Epistemological Challenges and Machine 
 blurb: "Doctoral Dissertation, University of Oxford."
 source: "https://ora.ox.ac.uk/objects/uuid:ba743054-3eaf-41fc-98e8-841255ee24ad"
 image:
-  url: /images/rat_shap.png
-  alt: "rat_shap"
+  url: /images/ice.png
+  alt: "ice"
 ---
