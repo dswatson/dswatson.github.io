@@ -1,11 +1,11 @@
 ---
 authors: "Watson & Wright"
-displayDate: "2019"
-date: 2019-01-10
+displayDate: "2021"
+date: 2021-06-17
 title: "Testing Conditional Independence in Supervised Learning Algorithms"
-blurb: "<em>arXiv</em> preprint, 1901.09917."
+blurb: "<em>Machine Learning</em>."
 source: "https://arxiv.org/abs/1901.09917"
 image:
-  url: /images/pwr.png
-  alt: "pwr"
+  url: /images/hists.png
+  alt: "hists"
 ---
