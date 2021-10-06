@@ -6,6 +6,6 @@ title: "The paradox of poor representation: How voter–party incongruence curbs
 blurb: "<em>The British Journal of Politics and International Relations</em>, 1-18."
 source: "https://journals.sagepub.com/doi/10.1177/13691481211048502"
 image:
-  url: /images/phi_curves.pdf
+  url: /images/phi_curves.png
   alt: "phi_curves"
 ---
