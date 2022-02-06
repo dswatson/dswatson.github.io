@@ -1,5 +1,5 @@
 ---
-authors: "Watson, Gultchin et al."
+authors: "Watson, Gultchin, et al."
 displayDate: "2021"
 date: 2021-04-05
 title: "Local explanations via necessity and sufficiency: Unifying theory and practice"
