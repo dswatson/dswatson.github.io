@@ -7,5 +7,5 @@ blurb: "<em>arXiv</em> preprint, 2202.10806."
 source: "https://arxiv.org/abs/2202.10806"
 image:
   url: /images/iv_bounds.png
-  alt: "iv_bnds"
+  alt: "iv_bounds"
 ---
