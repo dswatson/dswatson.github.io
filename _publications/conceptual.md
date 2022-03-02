@@ -1,7 +1,7 @@
 ---
 authors: "Watson"
 displayDate: "2022"
-date: 2022-02-07
+date: 2022-03-01
 title: "Conceptual challenges for interpretable machine learning"
 blurb: "<em>Synthese</em>, <em>200</em>, 1-33."
 source: "https://link.springer.com/article/10.1007/s11229-022-03485-5"
