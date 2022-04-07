@@ -1,9 +1,9 @@
 ---
 authors: "Watson"
-displayDate: "2021"
-date: 2021-06-21
+displayDate: "2022"
+date: 2022-04-07
 title: "Rational Shapley values"
-blurb: "<em>arXiv</em> preprint, 2106.10191."
+blurb: "Accepted to <em>2022 ACM Conference on Fairness, Accountability, and Transparency</em>."
 source: "https://arxiv.org/abs/2106.10191"
 image:
   url: /images/credit.png
