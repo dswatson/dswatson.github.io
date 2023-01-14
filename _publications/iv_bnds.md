@@ -1,9 +1,9 @@
 ---
 authors: "Padh, Zeitler, Watson et al."
-displayDate: "2022"
-date: 2022-02-23
+displayDate: "2023"
+date: 2023-01-14
 title: "Stochastic causal programming for bounding treatment effects"
-blurb: "<em>arXiv</em> preprint, 2202.10806."
+blurb: "Accepted to the 2nd Conference on Causal Learning and Reasoning."
 source: "https://arxiv.org/abs/2202.10806"
 image:
   url: /images/iv_bounds.png
