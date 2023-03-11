@@ -1,5 +1,5 @@
 ---
-authors: "Mokander, Sheth, Watson & Floridi"
+authors: "Mökander et al."
 displayDate: "2023"
 date: 2023-01-07
 title: "The switch, the ladder, and the matrix: Models for classifying AI systems"

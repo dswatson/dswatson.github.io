@@ -1,5 +1,5 @@
 ---
-authors: "John, Watson, et al."
+authors: "John et al."
 displayDate: "2020"
 date: 2020-01-20
 title: "M3C: Monte Carlo reference based consensus clustering"

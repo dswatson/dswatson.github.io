@@ -1,5 +1,5 @@
 ---
-authors: "Padh, Zeitler, Watson et al."
+authors: "Padh et al."
 displayDate: "2023"
 date: 2023-01-14
 title: "Stochastic causal programming for bounding treatment effects"

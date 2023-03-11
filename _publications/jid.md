@@ -1,5 +1,5 @@
 ---
-authors: "Foulkes, Watson, et al."
+authors: "Foulkes et al."
 displayDate: "2018"
 date: 2018-10-23
 title: "A framework for multi-omic prediction of treatment response to biologic therapy for psoriasis"

@@ -1,5 +1,5 @@
 ---
-authors: "Desai, Watson, et al."
+authors: "Desai et al."
 displayDate: "2022"
 date: 2022-11-07
 title: "The epistemological foundations of data science: A critical analysis"

@@ -1,5 +1,5 @@
 ---
-authors: "John, Watson, et al."
+authors: "John et al."
 displayDate: "2020"
 date: 2020-01-10
 title: "Spectrum: Fast density-aware spectral clustering for single and multi-omic data"
