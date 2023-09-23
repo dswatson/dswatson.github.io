@@ -1,0 +1,11 @@
+---
+authors: "Polonioli et al."
+displayDate: "2023"
+date: 2023-09-22
+title: "The Ethics of Online Controlled Experiments (A/B Testing)"
+blurb: "<em>Minds and Machines</em>."
+source: "https://link.springer.com/article/10.1007/s11023-023-09644-y"
+image:
+  url: /images/ab_tst.png
+  alt: "ab_tst"
+---
