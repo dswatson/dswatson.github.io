@@ -6,6 +6,6 @@ title: "Bounding Causal Effects with Leaky Instruments"
 blurb: "<em>arXiv</em> preprint, 2404.04446."
 source: "http://arxiv.org/abs/2404.04446"
 image:
-  url: /images/3part.pdf
+  url: /images/3part.png
   alt: "iv_bounds"
 ---
