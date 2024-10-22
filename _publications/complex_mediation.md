@@ -3,7 +3,7 @@ authors: "Gultchin et al."
 displayDate: "2021"
 date: 2021-04-04
 title: "Operationalizing complex causes: A pragmatic view of mediation"
-blurb: "<em>Proceedings of the 38th International Conference on Machine Learning</em>."
+blurb: "<em>Proceedings of the 38th International Conference on Machine Learning</em>, pp. 3875-3885."
 source: "https://proceedings.mlr.press/v139/gultchin21a.html"
 image:
   url: /images/decomp.png
