@@ -266,6 +266,70 @@ body:not(.homepage) {
 
 
 /****************
+ * Softwares *
+ ****************/
+
+.softwares {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+  overflow: hidden;
+  padding: 2em 0 2em 0;
+  margin-bottom: 0;
+  width: 100%;
+
+  article {
+    /* TODO flex column for insides */
+    display: inline-block;
+    width: 18em;
+    background: #fff;
+    text-align: center;
+    padding: 1em 1em 3em 1em;
+    margin: 0 2em 2em 0;
+    white-space: normal;
+    opacity: 1.0;
+    @include transition(opacity 0.75s ease-in-out);
+
+    h3 {
+      height: 77px;
+    }
+
+    p {
+      text-align: center;
+    }
+
+    .image {
+      margin-bottom: 3em;
+
+      img {
+        height: 10em;
+        width: auto;
+        margin: auto;
+
+        &.no-image {
+          visibility: hidden;
+
+          &::after {
+            content: 'No Image Provided';
+            display: block;
+            height: 10em;
+            line-height: 1em;
+            text-align: center;
+            width: 100%;
+            visibility: visible;
+            padding-top: 50%;
+            @include transform(translateY(-50%));
+          }
+        }
+      }
+    }
+  }
+}
+
+
+/****************
  *   Calendar   *
  ****************/
 
