@@ -4,7 +4,7 @@ title: Softwares
 ---
 <div class="softwares">
 
-  {% assign softwares = (site.softwares | sort: 'date') | reverse %}
+  {% assign softwares = (site.software | sort: 'date') | reverse %}
 
   {% for software in softwares %}
     {% include software.html software=software %}
