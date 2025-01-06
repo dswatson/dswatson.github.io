@@ -1,0 +1,33 @@
+<article>
+  <a class="image featured" {% if software.source %}href="{{ software.source }}"{% endif %}>
+    {% if software.image %}
+    <img src="{{ software.image.url | prepend: site.baseurl | prepend: site.url | default: '' }}"
+         alt="{{ software.image.alt | prepend: site.baseurl | prepend: site.url | default: '' }}" />
+    {% else %}
+      <img class="no-image" alt="No image provided" />
+    {% endif %}
+  </a>
+
+  <header>
+    {% if software.source %}
+    <a href="{{ software.source }}">
+    {% endif %}
+      <h3>
+        {{ software.authors }}
+        <span class="timestamp">{{ software.displayDate }}</span>
+      </h3>
+    {% if software.source %}
+    </a>
+    {% endif %}
+  </header>
+
+  <p>
+    {{ software.title }}. {{ software.blurb }}
+  </p>
+
+  <p>
+  {% for link in software.links %}
+    <a href="{{ link.url }}">{{ link.text }}</a>
+  {% endfor %}
+  </p>
+</article>

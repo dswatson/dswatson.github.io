@@ -1,0 +1,13 @@
+---
+layout: default
+title: Software
+---
+<div class="software">
+
+  {% assign software = (site.software | sort: 'date') | reverse %}
+
+  {% for software in softwares %}
+    {% include software.html software=software %}
+  {% endfor %}
+
+</div>
