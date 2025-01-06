@@ -2,3 +2,6 @@
 .ai-google-scholar .label {
   display: none;
 }
+.ai-google-scholar {
+  font-size: 2em; /* Adjust the size as needed */
+}
