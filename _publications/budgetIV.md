@@ -1,9 +1,9 @@
 ---
 authors: "Penn et al."
 displayDate: "2024"
-date: 2024-11-01
+date: 2025-01-21
 title: "BudgetIV: Optimal partial identification of causal effects with mostly invalid instruments"
-blurb: "<em>arXiv</em> preprint, 2411.06913."
+blurb: "Accepted to <em>The 28th International Conference on Artificial Intelligence and Statistics</em>."
 source: "https://arxiv.org/abs/2411.06913"
 image:
   url: /images/linear_IV.png
