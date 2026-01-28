@@ -1,6 +1,6 @@
 ---
 authors: "Rider et al."
-displayDate: "2025"
+displayDate: "2026"
 date: 2026-01-22
 title: "Transcriptomic profiling and machine learning uncover gene signatures of psoriasis endotypes and disease severity"
 blurb: "<em>Communications Medicine</em>."
