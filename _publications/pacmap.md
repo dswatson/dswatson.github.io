@@ -6,6 +6,6 @@ title: "Probably approximately correct maximum a posteriori inference"
 blurb: "<em>arXiv</em> preprint, 2601.16083."
 source: "https://arxiv.org/abs/2601.16083"
 image:
-  url: /images/pacmap.png
+  url: /images/pacmap2.png
   alt: "pacmap"
 ---
